@@ -1,0 +1,28 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chathuminid/CRUD-Operation.git"
+  },
+  "author": "code with Chathu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chathuminid/CRUD-Operation/issues"
+  },
+  "homepage": "https://github.com/chathuminid/CRUD-Operation#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
